@@ -1,2 +1,2 @@
-web: gunicorn tshwaneconnect.wsgi --log-file -
+web: gunicorn handyconnect.wsgi --log-file -
 
